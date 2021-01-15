@@ -1,4 +1,4 @@
-### Hello, Here is who am I 👋:octocat:
+### :octocat: Hello, Here is who am I 👋
 
 
 - 🔭 I’m currently working on : nothing :hamster:
