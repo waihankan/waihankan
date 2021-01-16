@@ -5,11 +5,11 @@
 [![GitHub waihankan](https://img.shields.io/github/followers/waihankan?label=follow&style=social)](https://github.com/waihankan)
 <a href="https://facebook.com/waihankan13"><img src="https://img.shields.io/badge/-Wai%20Han-blue?style=flat&logo=Facebook&logoColor=white"/></a>
 
-- 🔭 I’m currently working on : nothing :hamster:
+- 🔭 I’m currently working on : nothing_yet :hamster:
 - 🌱 I’m currently learning : Robotics, Self Driving Car
 - :school: I'm currently studying at : [Yangon Technological University](https://ytu.edu.mm/)
 - 👯 I’m looking to collaborate on : Python, MATLAB
-- 🤔 I’m looking for help with :
+- 🤔 I’m looking for help with : Robot Operating System
 - 💬 Ask me about : as you like :bangbang:
 - 📫 How to reach me : [Gmail](wh.kankan13@gmail.com) , [Facebook](https://web.facebook.com/waihankan13/) , [Linkedin](https://www.linkedin.com/in/wai-han-692305174/)
 - 😄 Pronouns : of course he or him 
