@@ -5,6 +5,7 @@
 [![GitHub waihankan](https://img.shields.io/github/followers/waihankan?label=follow&style=social)](https://github.com/waihankan)
 <a href="https://facebook.com/waihankan13"><img src="https://img.shields.io/badge/-Wai%20Han-blue?style=flat&logo=Facebook&logoColor=white"/></a>
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=waihankan.waihankan)
 - 🔭 I’m currently working on : nothing_yet :hamster:
 - 🌱 I’m currently learning : Robotics, Self Driving Car
 - :school: I'm currently studying at : [Yangon Technological University](https://ytu.edu.mm/)
