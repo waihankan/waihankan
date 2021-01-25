@@ -1,5 +1,5 @@
 ### :octocat: Hello, Here is who am I  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
-<img src = "https://giphy.com/stickers/dance-cute-2vkUyaJW3gVQtSfs2I" width="50">
+
 #### 🤝🏻 &nbsp;Connect with Me
 [![Linkedin: Wai Han](https://img.shields.io/badge/-Wai%20Han-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wai-han-692305174/)](https://www.linkedin.com/in/wai-han-692305174/)
 [![GitHub waihankan](https://img.shields.io/github/followers/waihankan?label=follow&style=social)](https://github.com/waihankan)
