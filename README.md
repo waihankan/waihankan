@@ -23,6 +23,7 @@
 ![Matlab](https://img.shields.io/badge/-Matlab-05122A?style=flat&logo=matlab)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=c)&nbsp;
 
 ### ⚙️ &nbsp;GitHub Analytics
 
