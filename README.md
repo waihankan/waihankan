@@ -13,7 +13,7 @@
 - 🤔 I’m looking for help with : Robot Operating System
 - 💬 Ask me about : as you like :bangbang:
 - 📫 How to reach me : [Gmail](wh.kankan13@gmail.com) , [Facebook](https://web.facebook.com/waihankan13/) , [Linkedin](https://www.linkedin.com/in/wai-han-692305174/)
-- 😄 Pronouns : of course he or him 
+- 😄 Pronouns : he or him 
 - ⚡ Fun fact :  ?
 - :earth_asia: Location : :round_pushpin:Myanmar
 
