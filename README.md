@@ -7,14 +7,14 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=waihankan.waihankan)
 - 🔭 I’m currently working on : nothing_yet :hamster:
-- 🌱 I’m currently learning : Robotics, Self Driving Car
+- 🌱 I’m currently learning : Robotics, Self Driving Car, React, and random blogging
 - :school: I'm currently studying at : [Yangon Technological University](https://ytu.edu.mm/)
-- 👯 I’m looking to collaborate on : Python, MATLAB
+- 👯 I’m looking to collaborate on : Python, MATLAB, React, C++
 - 🤔 I’m looking for help with : Robot Operating System
 - 💬 Ask me about : as you like :bangbang:
 - 📫 How to reach me : [Gmail](wh.kankan13@gmail.com) , [Facebook](https://web.facebook.com/waihankan13/) , [Linkedin](https://www.linkedin.com/in/wai-han-692305174/)
 - 😄 Pronouns : of course he or him 
-- ⚡ Fun fact :  I would love to help you!
+- ⚡ Fun fact :  ?
 - :earth_asia: Location : :round_pushpin:Myanmar
 
 
@@ -23,7 +23,7 @@
 ![Matlab](https://img.shields.io/badge/-Matlab-05122A?style=flat&logo=matlab)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=c)&nbsp;
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=c++)&nbsp;
 
 ### ⚙️ &nbsp;GitHub Analytics
 
