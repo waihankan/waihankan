@@ -8,7 +8,7 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=waihankan.waihankan)
 
 - :school: I'm currently studying at : UC Berkeley [EECS 25] :bear:
-- 📫 How to reach me : [Gmail](wh.kankan13@gmail.com) , [Facebook](https://web.facebook.com/waihankan13/) , [Linkedin](https://www.linkedin.com/in/wai-han-692305174/)
+- 📫 How to reach me :
 
 
 ### 🛠 &nbsp;Tech Stack
